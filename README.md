@@ -6,7 +6,8 @@ An interactive, AI-powered storytelling device for children that recognizes 3D-p
 
 ## 🎬 Demo Video
 
-[Watch the 4 min demo](https://drive.google.com/file/d/1mQmOxOAiASiv4N4ILsY4_2Ik0iglJMcX/view?usp=drive_link)
+[![Watch the demo](https://img.youtube.com/vi/4xTxv2r5DFQ/0.jpg)](https://youtu.be/4xTxv2r5DFQ)  
+https://youtu.be/4xTxv2r5DFQ
 
 ---
 
