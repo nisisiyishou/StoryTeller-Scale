@@ -1,6 +1,6 @@
 # StoryTeller Scale
 
-An interactive, AI-powered storytelling device for children that recognizes 3D-printed tokens and ambient light to generate and play custom audio stories—with matching LED visuals—using ChatGPT for story text and Google Translate TTS for audio.
+An interactive, AI-powered storytelling device for children that recognizes 3D-printed tokens and ambient light to generate and play custom audio stories - with matching LED visuals - using ChatGPT for story text and Google Translate TTS for audio.
 
 ---
 
